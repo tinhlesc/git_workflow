@@ -23,6 +23,8 @@ For our nightly builds:
 ```bash
 npm install -g typescript@next
 ```
+---
+conflict trainning
 
 ## Contribute
 
